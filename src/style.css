@@ -1,0 +1,42 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    /*color: darkred!important;*/
+    color: darkred;
+}
+
+#cor-fruta-titulo {
+    color: darkred; /*para não dar problema com o uso do !important*/
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+/*Usar !importante em seu CSS
+geralmente significa que você
+é narcisista e egoísta ou preguiçoso.
+Respeite os devs que virão...
+*/
